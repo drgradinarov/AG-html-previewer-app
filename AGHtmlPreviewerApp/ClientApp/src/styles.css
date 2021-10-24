@@ -1,0 +1,75 @@
+
+a {
+  color: #0366d6;
+}
+
+code {
+  color: #e01a76;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.inputCell{
+    height: 600px;
+    width: 600px;
+    float: left;
+    margin: 10px;
+   position:relative;
+}
+
+.outputCell {
+  outline-style: dotted;
+  outline-color: cornflowerblue;
+  height: 592px !important;
+  margin-top: 14px;
+}
+
+.buttonsStyle {
+ 
+  margin: 8px;  
+  position: relative;
+  background-color: #4CAF50;
+  border: none;
+  font-size: 14px;
+  color: #FFFFFF;
+  padding: 20px;
+  width: 138px !important;
+  height: 61px !important;
+  text-align: center;
+  transition-duration: 0.4s;
+  text-decoration: none;
+  overflow: hidden;
+  cursor: pointer;
+  
+}
+
+.row {
+  width: 1240px;
+  height: 620px;
+  margin: auto;
+  align-content: center;
+}
+
+.textArea {
+  resize: none;
+}
+
+.marginHtml{
+    margin: 10px;
+}
+
+.buttonsStyleAction {
+  background-color: cornflowerblue;
+}
+
+.buttonContainer {
+  margin: auto;
+  float: left;
+  
+  width: 1240px;
+  height: 70px;
+}

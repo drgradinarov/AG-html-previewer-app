@@ -1,0 +1,19 @@
+<h1 id="tableLabel">Share html</h1>
+
+<p *ngIf="errorMessage.length > 0"><em>{{errorMessage}}</em></p>
+
+<div *ngIf="!errorMessage.length > 0">
+
+  <p *ngIf="!htmlString"><em>Loading...</em></p>
+
+  <div class='row' *ngIf="htmlString">
+
+    <div class="inputCell outputCell">
+
+      <div class="marginHtml" [innerHTML]="htmlString"></div>
+    </div>
+   
+  </div>
+
+</div>
+

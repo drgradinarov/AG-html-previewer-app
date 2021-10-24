@@ -1,0 +1,13 @@
+C:\Progres\AGBLHtmlPreviewer\bin\Debug\netcoreapp3.1\AGBLHtmlPreviewer.deps.json
+C:\Progres\AGBLHtmlPreviewer\bin\Debug\netcoreapp3.1\AGBLHtmlPreviewer.dll
+C:\Progres\AGBLHtmlPreviewer\bin\Debug\netcoreapp3.1\AGBLHtmlPreviewer.pdb
+C:\Progres\AGBLHtmlPreviewer\bin\Debug\netcoreapp3.1\AGDataAccessLibrary.dll
+C:\Progres\AGBLHtmlPreviewer\bin\Debug\netcoreapp3.1\AGDataAccessLibrary.pdb
+C:\Progres\AGBLHtmlPreviewer\obj\Debug\netcoreapp3.1\AGBLHtmlPreviewer.csproj.AssemblyReference.cache
+C:\Progres\AGBLHtmlPreviewer\obj\Debug\netcoreapp3.1\AGBLHtmlPreviewer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Progres\AGBLHtmlPreviewer\obj\Debug\netcoreapp3.1\AGBLHtmlPreviewer.AssemblyInfoInputs.cache
+C:\Progres\AGBLHtmlPreviewer\obj\Debug\netcoreapp3.1\AGBLHtmlPreviewer.AssemblyInfo.cs
+C:\Progres\AGBLHtmlPreviewer\obj\Debug\netcoreapp3.1\AGBLHtmlPreviewer.csproj.CoreCompileInputs.cache
+C:\Progres\AGBLHtmlPreviewer\obj\Debug\netcoreapp3.1\AGBLHtmlPreviewer.csproj.CopyComplete
+C:\Progres\AGBLHtmlPreviewer\obj\Debug\netcoreapp3.1\AGBLHtmlPreviewer.dll
+C:\Progres\AGBLHtmlPreviewer\obj\Debug\netcoreapp3.1\AGBLHtmlPreviewer.pdb

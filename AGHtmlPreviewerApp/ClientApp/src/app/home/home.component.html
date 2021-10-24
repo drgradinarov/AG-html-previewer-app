@@ -1,0 +1,28 @@
+
+<div class="row">
+  
+    <textarea class="inputCell textArea"
+              [(ngModel)]='AGHtmlElement.Html'
+              rows="15"
+              cols="60"
+              (focusout)="onSubmitHtml($event)">                             
+    </textarea>
+
+    <div class="inputCell outputCell">
+
+         <div class="marginHtml" [innerHTML]="htmlString"></div>
+    </div>
+  
+</div>
+  
+<div class="buttonContainer">
+  
+    <button [ngClass]="isContentEdited ? 'buttonsStyleAction buttonsStyle' : 'buttonsStyle'"  (click)="run()">Run</button>
+  
+    <button [ngClass]="isContentEdited ? 'buttonsStyleAction buttonsStyle' : 'buttonsStyle'" (click)="save()">Save</button>  
+
+    <button class="buttonsStyle" (click)="search()">Check original</button>
+
+    <button class="buttonsStyle" (click)="share()">Share</button>
+  
+</div>

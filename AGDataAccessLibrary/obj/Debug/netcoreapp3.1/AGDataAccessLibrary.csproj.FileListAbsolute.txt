@@ -1,0 +1,10 @@
+C:\Progres\AGDataAccessLibrary\bin\Debug\netcoreapp3.1\AGDataAccessLibrary.deps.json
+C:\Progres\AGDataAccessLibrary\bin\Debug\netcoreapp3.1\AGDataAccessLibrary.dll
+C:\Progres\AGDataAccessLibrary\bin\Debug\netcoreapp3.1\AGDataAccessLibrary.pdb
+C:\Progres\AGDataAccessLibrary\obj\Debug\netcoreapp3.1\AGDataAccessLibrary.csproj.AssemblyReference.cache
+C:\Progres\AGDataAccessLibrary\obj\Debug\netcoreapp3.1\AGDataAccessLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Progres\AGDataAccessLibrary\obj\Debug\netcoreapp3.1\AGDataAccessLibrary.AssemblyInfoInputs.cache
+C:\Progres\AGDataAccessLibrary\obj\Debug\netcoreapp3.1\AGDataAccessLibrary.AssemblyInfo.cs
+C:\Progres\AGDataAccessLibrary\obj\Debug\netcoreapp3.1\AGDataAccessLibrary.csproj.CoreCompileInputs.cache
+C:\Progres\AGDataAccessLibrary\obj\Debug\netcoreapp3.1\AGDataAccessLibrary.dll
+C:\Progres\AGDataAccessLibrary\obj\Debug\netcoreapp3.1\AGDataAccessLibrary.pdb
